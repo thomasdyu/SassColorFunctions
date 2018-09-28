@@ -36,3 +36,6 @@ header {
   }
 }
 
+// You can also use RGBA value with color variable like below 
+//color: rgba($color-accent, 0.7);
+
